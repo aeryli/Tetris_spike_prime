@@ -9,3 +9,8 @@ then, install the .llsp3 file, from here: https://drive.google.com/file/d/1cd8uc
 
 select spike prime.
 if you are on the app, then put the .llsp3 file into the app's project folder, and, if you are on the web, you can use 'open file'.
+open by selecting the 'tetris' file.
+connect your hub and connect the force sensor to A.
+press the play icon.
+
+#messing with it
