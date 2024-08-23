@@ -7,4 +7,5 @@ you can dowload it from the apple app store, microsoft store, play store, or on 
 or the web app: https://spike.legoeducation.com/ .
 then, install the .llsp3 file, from here: https://drive.google.com/file/d/1cd8uchZsTzeNhc-Fnp-Pw9QXYjV4_SPK/view?usp=drivesdk
 
+select spike prime.
 if you are on the app, then put the .llsp3 file into the app's project folder, and, if you are on the web, you can use 'open file'.
