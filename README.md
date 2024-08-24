@@ -13,4 +13,4 @@ open by selecting the 'tetris' file.
 connect your hub and connect the force sensor to A.
 press the play icon.
 
-#messing with it
+# messing with it
